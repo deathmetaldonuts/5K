@@ -1,0 +1,56 @@
+body {
+	background-color: #d0d3d8;
+}
+div{
+ 	background-color: #003fa8;
+ 	margin: auto;
+ 	
+
+ }
+
+.red {
+	color:#e01d1d; 
+	font-size: 22px;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	text-align: center;
+}
+
+
+h1{
+ 	color: #e01d1d;
+ 	text-align: center;
+ }
+
+h2{
+	text-align: center;
+}
+
+h3 {
+ 	color:#e01d1d; 
+ 	text-align: center;
+  }
+
+.main {
+ 	color: #ffffff;
+ 	font-size:18px;
+ 	font-family: 'Encode Sans Condensed', sans-serif;
+ 	text-align: center;
+ 	width: 50%;
+ 	padding-bottom: 15px;
+ 	
+
+ 	
+ 	
+ 	
+ }
+
+#contact{
+	color: #ffffff; 
+	font-family: 'Encode Sans Condensed', sans-serif;
+	text-align: center;
+}
+
+a:visited {
+	color: white
+	;
+}
