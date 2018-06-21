@@ -1,0 +1,39 @@
+body{
+	background-color: #d0d3d8;
+
+}
+
+ div{
+ 	background-color: #003fa8;
+ }
+
+ h1{
+ 	color: #e01d1d;
+ }
+
+ h3 {
+ 	color:#e01d1d; 
+ }
+
+ div p {
+ 	color: #ffffff;
+ 	font-size:18px;
+ }
+ 
+ p {
+ 	color: #e01d1d;
+ 	font-size: 25px;
+ 	font-family: 'Encode Sans Condensed', sans-serif;
+ 	height: 200px;
+ 	width: 300px;
+ }
+
+
+body {
+	text-align: center;
+}
+
+a:visited {
+	color: white
+	;
+}
