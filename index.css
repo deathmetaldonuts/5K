@@ -1,0 +1,76 @@
+body {
+	background: url(https://images.unsplash.com/photo-1509390288171-ce2088f7d08e?ixlib=rb-0.3.5&s=a1dd14a3737ec2ca843d683f6423306a&auto=format&fit=crop&w=1950&q=80);
+	background-size: cover;
+	font-family: 'Encode Sans', sans-serif;
+	color: white;
+    /*text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;*/
+    text-shadow: 0px 4px 3px black ,
+    			 0px 8px 13px rgba(0,0,0,0.1) ,
+    			 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.contact {
+	text-align: center;
+	background-color: rgba(0,0,0,0.3);
+	width: 300px;
+	margin-top: 10%;
+}
+
+
+a {
+	color: white;
+}
+
+a:hover {
+    color: red;
+}
+.imp {
+	height: 50px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+#content{
+	text-align: center;
+	padding-top: 20%;   
+}
+
+html {
+	height: 100%;
+}
+
+
+.btn {
+	font-family: 'Encode Sans', sans-serif;
+	font-weight: 700;
+	border:1px solid black;
+	 color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+    width: 1000px;
+}
+
+h1 {
+	font-family: 'Encode Sans', sans-serif;
+	font-weight: 700;
+}
+
+h3 {
+	font-family: 'Encode Sans', sans-serif;
+	font-weight: 700;
+}
